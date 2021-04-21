@@ -6,6 +6,10 @@ this is body text under **header 1**
 ## Header 2
 this is body text under *header 2*
 ### Header 3
+this is a list
+* item one
+* item two
+* item 3
 #### Header 4
 
 ## Sample Code
